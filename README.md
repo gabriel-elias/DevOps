@@ -1,2 +1,2 @@
 # DevOps
-DevOps
+Ambiente de Desenvolvimento Operacional
